@@ -11,8 +11,7 @@ Required OS. and file:
 
 4-Python >= 3.0
 
-USAGE:
-
+Stages:
 1- First downlod sequence file from gisaid.org and rename the file to "sequence.fasta".
 
 2- Run the single.py in directory. This script convert a multi-line file to sinle-line fasta file.
