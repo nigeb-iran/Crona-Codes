@@ -11,6 +11,8 @@ Required OS. and file:
 
 4-Python >= 3.0
 
+5-snpEFF & snpSift
+
 Stages:
 1- First downlod sequence file from gisaid.org and rename the file to "sequence.fasta".
 
